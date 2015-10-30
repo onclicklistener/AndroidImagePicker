@@ -4,5 +4,5 @@
     <string name="picker_crop_title">Crop</string>
     <string name="picker_all">ALL Images</string>
     <string name="picker_select">Images</string>
-    <string name="picker_unit">pictures</string>
+    <string name="picker_unit"> </string>
 </resources>
