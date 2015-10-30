@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black_translucent">#50000000</color>
+    <color name="default_primary_color">#2196F3</color>
+    <color name="default_primary_dark_color">#1976D2</color>
+    <color name="default_control_normal_color">#ffffff</color>
+
+</resources>

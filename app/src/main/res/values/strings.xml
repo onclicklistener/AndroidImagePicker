@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImagePickerDemo</string>
+    <string name="pick">Pick</string>
+    <string name="crop"><![CDATA[Pick&Crop]]></string>
+</resources>

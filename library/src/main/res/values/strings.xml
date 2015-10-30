@@ -1,0 +1,8 @@
+<resources>
+    <string name="picker_ok">确定</string>
+    <string name="picker_shot">拍摄照片</string>
+    <string name="picker_crop_title">裁剪</string>
+    <string name="picker_all">全部图片</string>
+    <string name="picker_select">选择图片</string>
+    <string name="picker_unit">张</string>
+</resources>
